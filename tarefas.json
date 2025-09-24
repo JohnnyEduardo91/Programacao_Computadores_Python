@@ -1,62 +1,53 @@
 [
   {
-    "id": 1,
-    "tarefa": "Aula de Python",
+    "descricao": "Aula de Python",
     "status": "Pendente",
     "prazo": "10-10-2025"
   },
   {
-    "id": 2,
-    "tarefa": "Responder e-mails",
+    "descricao": "Responder e-mails",
     "status": "Em Andamento",
     "prazo": "25-09-2025"
   },
   {
-    "id": 3,
-    "tarefa": "Fazer compras de mercado",
+    "descricao": "Fazer compras de mercado",
     "status": "Concluído",
     "prazo": "23-09-2025"
   },
   {
-    "id": 4,
-    "tarefa": "Preparar apresentação",
+    "descricao": "Preparar apresentação",
     "status": "Pendente",
     "prazo": "05-11-2025"
   },
   {
-    "id": 5,
-    "tarefa": "Ligar para o cliente X",
+    "descricao": "Ligar para o cliente X",
     "status": "Pendente",
     "prazo": "26-09-2025"
   },
   {
-    "id": 6,
-    "tarefa": "Revisar código do projeto",
+    "descricao": "Revisar código do projeto",
     "status": "Em Andamento",
     "prazo": "30-09-2025"
   },
   {
-    "id": 7,
-    "tarefa": "Pagar contas",
+    "descricao": "Pagar contas",
     "status": "Concluído",
     "prazo": "22-09-2025"
   },
   {
-    "id": 8,
-    "tarefa": "Estudar para a prova",
+    "descricao": "Estudar para a prova",
     "status": "Pendente",
     "prazo": "15-10-2025"
   },
   {
-    "id": 9,
-    "tarefa": "Limpar a casa",
+    "descricao": "Limpar a casa",
     "status": "Em Andamento",
     "prazo": "27-09-2025"
   },
   {
-    "id": 10,
-    "tarefa": "Assistir a um webinar",
+    "descricao": "Assistir a um webinar",
     "status": "Pendente",
     "prazo": "12-10-2025"
   }
+
 ]
