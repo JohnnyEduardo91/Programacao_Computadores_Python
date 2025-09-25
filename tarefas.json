@@ -6,7 +6,7 @@
   },
   {
     "descricao": "Responder e-mails",
-    "status": "Em Andamento",
+    "status": "Pendente",
     "prazo": "25-09-2025"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "descricao": "Revisar código do projeto",
-    "status": "Em Andamento",
+    "status": "Pendente",
     "prazo": "30-09-2025"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "descricao": "Limpar a casa",
-    "status": "Em Andamento",
+    "status": "Pendente",
     "prazo": "27-09-2025"
   },
   {
@@ -51,4 +51,5 @@
   }
 
 ]
+
 
